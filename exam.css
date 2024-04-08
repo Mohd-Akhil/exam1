@@ -1,0 +1,25 @@
+table{
+    border: 1px solid #000000;
+    width: 100%;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+thead{
+    background-color: rgb(44, 44, 112);
+}
+tbody tr:hover{
+    background-color: black;
+    color: white;
+}
+.a{
+    background-color: rgb(118, 118, 247);
+}
+.b{
+    background-color: rgb(143, 161, 233);
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
